@@ -1,7 +1,24 @@
 {
   "seo": {
-    "title": "EPIC VIETNAM - Dịch Vụ Kỹ Thuật Cơ Điện & Trạm Biến Áp Công Nghiệp",
-    "description": "Chuyên tư vấn, thiết kế, thi công trạm biến áp, phân phối điện và hệ thống cơ điện M&E cho các nhà máy tại KCN Bình Dương."
+    "title": "EPIC VIETNAM - Dịch Vụ Kỹ Thuật ",
+    "description": "Chuyên tư vấn, thiết kế, thi công hệ thống camera CCTV & điện công nghiệp , tự động hóa và hệ thống cơ điện , điênh lạnh M&E cho các nhà máy tại KCN Bình Dương."
+  },
+  "hero": {
+    "badge": "Đối Tác Cơ Điện Uy Tín Hàng Đầu",
+    "title": "Lắp Đặt Điện Công Nghiệp, Trạm Biến Áp & Hệ Thống M&E Nhà Xưởng",
+    "description": "Đồng hành cùng hàng trăm doanh nghiệp FDI và nội địa tại các khu công nghiệp Bình Dương với giải pháp kỹ thuật an toàn, chuẩn xác và bền bỉ.",
+    "primary_label": "Nhận tư vấn & báo giá",
+    "secondary_label": "Hồ Sơ Năng Lực Công Ty",
+    "secondary_url": "profile.html"
+  },
+  "enquiry": {
+    "eyebrow": "BẮT ĐẦU TỪ NHU CẦU CỦA BẠN",
+    "title": "Nhận tư vấn kỹ thuật",
+    "description": "Cho chúng tôi biết bạn cần hỗ trợ gì. Chỉ cần tên và số điện thoại để bắt đầu.",
+    "service_label": "Bạn cần hỗ trợ gì?",
+    "submit_label": "Soạn yêu cầu qua email",
+    "help": "Mở ứng dụng email với nội dung đã điền. Bạn kiểm tra và bấm gửi trong ứng dụng email.",
+    "direct_label": "Cần trao đổi ngay?"
   },
   "section_3": {
     "text_1": "Năng lực cốt lõi",
@@ -37,7 +54,6 @@
     "text_8": "Email Kỹ thuật",
     "text_9": "Mã số thuế"
   },
-  "banner_image": "",
   "form_hints": {
     "hint_1": "Tên của bạn",
     "hint_2": "09xx xxx xxx",
@@ -69,7 +85,6 @@
       "badge": "KCN VSIP II",
       "scale": "Quy mô: 2500 kVA",
       "year": "Năm: 2024",
-      "image": "",
       "visible": true
     },
     {
@@ -79,7 +94,6 @@
       "badge": "KCN Mỹ Phước 3",
       "scale": "Diện tích: 15.000 m²",
       "year": "Năm: 2024",
-      "image": "",
       "visible": true
     },
     {
@@ -89,7 +103,6 @@
       "badge": "KCN Bàu Bàng",
       "scale": "Công suất: 3200A",
       "year": "Năm: 2023",
-      "image": "",
       "visible": true
     }
   ],
@@ -109,22 +122,5 @@
       "description": "Cơ động xử lý sự cố lưới điện và máy biến áp 24/7 cho toàn bộ các KCN tại khu vực Bình Dương, giảm tối đa tổn thất sản xuất.",
       "visible": true
     }
-  ],
-  "hero": {
-    "badge": "Đối Tác Cơ Điện Uy Tín Hàng Đầu",
-    "title": "Lắp Đặt Điện Công Nghiệp, Trạm Biến Áp & Hệ Thống M&E Nhà Xưởng",
-    "description": "Đồng hành cùng hàng trăm doanh nghiệp FDI và nội địa tại các khu công nghiệp Bình Dương với giải pháp kỹ thuật an toàn, chuẩn xác và bền bỉ.",
-    "primary_label": "Nhận tư vấn & báo giá",
-    "secondary_label": "Hồ Sơ Năng Lực Công Ty",
-    "secondary_url": "profile.html"
-  },
-  "enquiry": {
-    "eyebrow": "BẮT ĐẦU TỪ NHU CẦU CỦA BẠN",
-    "title": "Nhận tư vấn kỹ thuật",
-    "description": "Cho chúng tôi biết bạn cần hỗ trợ gì. Chỉ cần tên và số điện thoại để bắt đầu.",
-    "service_label": "Bạn cần hỗ trợ gì?",
-    "submit_label": "Soạn yêu cầu qua email",
-    "help": "Mở ứng dụng email với nội dung đã điền. Bạn kiểm tra và bấm gửi trong ứng dụng email.",
-    "direct_label": "Cần trao đổi ngay?"
-  }
+  ]
 }
