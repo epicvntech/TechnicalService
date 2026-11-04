@@ -2,12 +2,10 @@
   "items": [
     {
       "id": "bai-viet-1",
-      "title": "Quy Trình Kiểm Định & Thí Nghiệm Trạm Biến Áp Định Kỳ Hàng Năm",
-      "category": "Tiêu Chuẩn EVN",
+      "title": "Quy Trình Kiểm Định & Thí Nghiệm Hệ Thống Báo Cháy & PCCC",
+      "category": "Tiêu Chuẩn Về PCCC",
       "date": "15/09/2026",
       "summary": "Hướng dẫn chi tiết các hạng mục kiểm định dầu cách điện, đo điện trở cuộn dây và kiểm tra rơ-le bảo vệ rò chạm vỏ theo đúng quy chuẩn ngành điện lực.",
-      "body": "",
-      "image": "",
       "visible": true
     },
     {
@@ -16,8 +14,6 @@
       "category": "Giải Pháp Năng Lượng",
       "date": "10/09/2026",
       "summary": "Cách tính toán dung lượng tụ bù tự động giúp nâng hệ số Cos phi > 0.95, giảm tổn hao đường dây và tiết kiệm hàng chục triệu tiền điện phạt cho doanh nghiệp.",
-      "body": "",
-      "image": "",
       "visible": true
     },
     {
@@ -26,8 +22,6 @@
       "category": "An Toàn PCCC",
       "date": "02/09/2026",
       "summary": "Phát hiện sớm 95% nguy cơ chập cháy do lỏng đầu cosse, oxy hóa thanh cái và quá tải cục bộ tại tủ MSB trước khi sự cố nghiêm trọng xảy ra.",
-      "body": "",
-      "image": "",
       "visible": true
     }
   ]
